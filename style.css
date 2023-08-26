@@ -1,0 +1,34 @@
+header{
+  display: flex;
+  
+}
+
+header nav{
+  margin-top: 25px;
+  margin-left: 12vb;
+  margin-right: 10vb;
+  
+}
+header div{
+  width: 200px;
+  height: 70px;
+  background-color: #ddd;
+}
+
+section p {
+  background-color: #ddd;
+  width: 960px;
+  height: 450px;
+}
+
+section div{
+  width: 960px;
+  display: flex;
+  gap: 30px;
+  
+}
+section div nav{
+  width: 320px;
+  height: 375px;
+  background-color: #ddd;
+}
